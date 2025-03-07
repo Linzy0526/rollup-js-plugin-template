@@ -1,19 +1,12 @@
 # rollup-js-plugin-template
-This is a template repository for creating a new Rollup.js plugin.
 
-## Usage
+> 基于 Rollup 的 JavaScript 插件开发模板
 
-To use this template, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Rename the repository to the name of your plugin.
-3. run `npm install` to install the dependencies.
+### 模板特性
 
-## Development
-
-To develop your plugin, you can start the development server by running `npm run dev`. This will start a watcher that will rebuild your plugin whenever you make changes to the source code.
-
-## Building
-
-To build your plugin, run `npm run build`. This will generate a minified version of your plugin in the `dist` folder. 
-
+✅ 开箱即用的 Rollup 配置  
+✅ 多格式输出支持 (ESM/CJS/UMD)  
+✅ 开发-构建分离的 NPM 脚本  
+✅ 生产环境代码压缩优化  
+✅ 源码映射 (Sourcemap) 支持  
